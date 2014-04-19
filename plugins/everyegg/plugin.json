@@ -1,0 +1,7 @@
+{
+  "name": "everyegg",
+  "main": "./everyegg.js",
+  "version": "1.0.0",
+  "author": "jCoder",
+  "description": "ScriptCraft plugin, every thrown egg spawns a chicken if you have an emerald in your inventory"
+} 
