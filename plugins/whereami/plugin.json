@@ -1,0 +1,7 @@
+{
+  "name": "whereami",
+  "main": "./whereami.js",
+  "version": "1.0.0",
+  "author": "jCoder",
+  "description": "ScriptCraft plugin, user command (jsp whereami) to inform the player about the current location"
+} 
